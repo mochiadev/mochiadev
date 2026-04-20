@@ -47,20 +47,14 @@ I specialize in building high-performance web and mobile applications with a foc
 
 ---
 
-### 🚀 Featured Project: Townlink App
-*A real-world solution focusing on local connectivity and community engagement.*
-[View Repository](https://github.com/mochiadev/townlink) | [Live Demo](https://yourlink.com)
-
----
-
 ### 🌍 Connect & Collaborate
 
 I am currently open to **Greenfield projects, Startup collaborations, and Freelance opportunities.**
 
 * 💬 **Let's Talk Shop:** Ask me about React architecture, Backend scalability, or SEO.
-* 📫 **Email:** samuelmochia@email.com *(Update this!)*
-* 📱 **WhatsApp:** [+233 (Your Number)](https://wa.me/233204828524)
-* 💼 **LinkedIn:** [/in/samuelmochia](https://linkedin.com/in/samuelxmochia) 
+* 📫 **Email:** samuelxmochia@gmail.com 
+* 📱 **WhatsApp:** [+233 (204828524)](https://wa.me/233204828524)
+* 💼 **LinkedIn:** [/in/samuelxmochia](https://linkedin.com/in/samuelxmochia) 
 
 ---
 
