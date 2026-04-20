@@ -45,11 +45,11 @@
 ### 👨‍💻 About Me
 
 * 🔭 **Currently building:** Townlink App — Revolutionizing local connectivity.
-* 🌱 **Learning:** React Native, Go, and advanced Backend Engineering.
+* 🌱 **Learning:**  Go and Distributed Systems.
 * 🤝 **Open to collaborate on:** AI Projects and HealthTech innovations.
-* 💬 **Ask me about:** Webflow, Full-stack development, and SEO strategy.
-* 📫 **Email:** samuelxmochia@gmail.com
-* ⚡ **Fun fact:** I don’t push bugs. I commit "unexpected features."
+* 💬 **Ask me about:**  Cross-platform development, scalability and SEO strategy.
+* 📫 **Email:** [samuelxmochia@gmail.com](mailto:samuelxmochia@gmail.com)
+* ⚡ **Fun fact:** I debug code with the same precision I used in clinical practice."
 
 ---
 
