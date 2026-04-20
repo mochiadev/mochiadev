@@ -8,7 +8,7 @@ I’m a software engineer with a background in Physician Assistantship, giving m
 
 ### 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,c,sql,figma,webflow,github,vscode,replit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,c,sql,figma,github,vscode,replit)](https://skillicons.dev)
 
 ---
 
