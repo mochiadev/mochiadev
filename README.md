@@ -1,82 +1,109 @@
-# Hi, I'm Samuel Mochia 👋 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com%3Fcolor%3D00F5FF%26size%3D25%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26lines%3DFull-Stack%2BEngineer%3BReact%2BNative%2B%257C%2BNext.js%2B%257C%2BDjango%3BBridging%2BHealthcare%2Band%2BTech%3BTurning%2BComplex%2BProblems%2BInto%2BSolutions%3BFuture%2BHealth-Tech%2BFounder"/>
+</p>
 
-### Full-Stack Engineer & Product Builder
-**Transforming complex business problems into scalable, real-world digital solutions.**
+<div>
+<img style="width:100%" src="https://capsule-render.vercel.app/api%3Ftype%3Dblur%26height%3D100%26section%3Dheader%26reversal%3Dfalse%26text%3DSamuel%2520Mochia%26fontSize%3D30%26fontAlignY%3D50%26stroke%3D-%26animation%3DfadeIn%26descSize%3D20%26descAlign%3D50%26descAlignY%3D50%26textBg%3Dfalse%26color%3Dgradient"  />
+</div>
 
-I specialize in building high-performance web and mobile applications with a focus on clean architecture and intuitive UI/UX. Whether it's a rapid MVP for a startup or a robust system for an established business, I build with scalability and user retention in mind.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:ff00cc,100:24243e&height=2&section=header"/>
+</p>
 
----
+🛠 Tech Stack
 
-### 🛠 Tech Stack
+<p align="center">
+<!-- Frontend & Design -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E%3Fstyle%3Dfor-the-badge%26logo%3Dfigma%26logoColor%3Dwhite"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-**Languages & Core**
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<!-- Backend & Logic -->
 
-**Frontend & Mobile (The User Experience)**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20%3Fstyle%3Dfor-the-badge%26logo%3Ddjango%26logoColor%3Dwhite"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-005571%3Fstyle%3Dfor-the-badge%26logoColor%3Dwhite"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748%3Fstyle%3Dfor-the-badge%26logo%3Dprisma%26logoColor%3Dwhite"/>
 
-**Backend & Logic (The Engine)**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=google-cloud&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+<!-- Database & BaaS -->
 
-**Database & Infrastructure (Scale & Data)**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
 
----
+<!-- Infrastructure & Tools -->
 
-### 👨‍💻 Why Work With Me?
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7%3Fstyle%3Dfor-the-badge%26logo%3Drender%26logoColor%3Dwhite"/>
+<img src="https://img.shields.io/badge/Expo-000020%3Fstyle%3Dfor-the-badge%26logo%3Dexpo%26logoColor%3Dwhite"/>
+<img src="https://img.shields.io/badge/Webflow-4353FF%3Fstyle%3Dfor-the-badge%26logo%3Dwebflow%26logoColor%3Dwhite"/>
+</p>
 
-* **Startup Mindset:** I understand the need for speed and efficiency. I build MVPs that are lean enough to launch quickly but solid enough to scale.
-* **Design-to-Code:** I bridge the gap between UI/UX and Engineering. I use Figma to ensure pixel-perfect implementation in React and Next.js.
-* **Cross-Platform Delivery:** With React Native and Expo, I deliver seamless mobile experiences for both iOS and Android from a single codebase.
-* **Data Integrity:** I leverage Prisma and relational databases (PostgreSQL/MySQL) to ensure your business data is secure, structured, and performant.
+👨‍💻 About Me
 
----
+🔭 Currently building Townlink App — Enhancing local community engagement.
 
-### 🌍 Connect & Collaborate
+🌱 Mastery focus: Python, React Native, and Advanced Backend Architecture.
 
-I am currently open to **Greenfield projects, Startup collaborations, and Freelance opportunities.**
+🤝 Open to collaborate on Real-world Business Solutions and Health-Tech.
 
-* 💬 **Let's Talk Shop:** Ask me about React architecture, Backend scalability, or SEO.
-* 📫 **Email:** samuelxmochia@gmail.com 
-* 📱 **WhatsApp:** [+233 (204828524)](https://wa.me/233204828524)
-* 💼 **LinkedIn:** [/in/samuelxmochia](https://linkedin.com/in/samuelxmochia) 
+💬 Ask me about Product Design, SEO Strategy, and Scalable Web Apps.
 
----
+🌐 Portfolio: Coming Soon
 
-### 📈 Activity Tracking
+📫 Email: samuelmochia@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mochiadev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mochiadev&layout=compact&theme=tokyonight)
+⚡ Fun fact: I debug code with the same precision I used in clinical practice.
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:ff00cc,100:24243e&height=2&section=header"/>
+</p>
 
+🌍 Connect With Me
 
+<p align="center">
+<a href="https://linkedin.com/in/samuelxmochia"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://wa.me/233204828524"><img src="https://skillicons.dev/icons%3Fi%3Dwhatsapp"/></a>
+<a href="https://github.com/mochiadev"><img src="https://skillicons.dev/icons%3Fi%3Dgithub"/></a>
+<a href="https://figma.com/%40yourprofile"><img src="https://skillicons.dev/icons%3Fi%3Dfigma"/></a>
+</p>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:ff00cc,100:24243e&height=2&section=header"/>
+</p>
 
-<!--
-**mochiadev/mochiadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api%3Fusername%3Dmochiadev%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dmochiadev%26theme%3Dtokyonight%26hide_border%3Dtrue"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmochiadev%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:ff00cc,100:24243e&height=2&section=header"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/%3Fusername%3Dmochiadev%26label%3DProfile%2520Views%26color%3D0e75b6%26style%3Dflat" alt="profile views"/>
+</p>
+
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
