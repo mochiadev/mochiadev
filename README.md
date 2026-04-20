@@ -55,10 +55,19 @@
 
 ## 🌍 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/samuelmochia"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="https://wa.me/233000000000"><img src="https://skillicons.dev/icons?i=whatsapp" width="40"/></a>
-  <a href="https://github.com/mochiadev"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+<p align="left">
+  <a href="https://linkedin.com/in/samuelmochia" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/233000000000" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:samuelxmochia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/mochiadev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
