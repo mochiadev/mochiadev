@@ -1,13 +1,13 @@
 <p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Fcolor%3D00F5FF%26size%3D25%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26lines%3DFull-Stack%2BEngineer%3BReact%2BNative%2B%257C%2BNext.js%2B%257C%2BDjango%3BBridging%2BHealthcare%2Band%2BTech%3BTurning%2BComplex%2BProblems%2BInto%2BSolutions%3BFuture%2BHealth-Tech%2BFounder"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=25&center=true&vCenter=true&width=800&lines=Building+AI-powered+Applications;React+Native+%7C+Laravel+%7C+Node.js;Hospital+Systems+Architect;Turning+Ideas+Into+Production+Systems;Future+AI+Tech+Founder"/>
 </p>
 
 <div>
-<img style="width:100%" src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dblur%26height%3D100%26section%3Dheader%26reversal%3Dfalse%26text%3DSamuel%2520Mochia%26fontSize%3D30%26fontAlignY%3D50%26stroke%3D-%26animation%3DfadeIn%26descSize%3D20%26descAlign%3D50%26descAlignY%3D50%26textBg%3Dfalse%26color%3Dgradient" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&text=masakazu&fontSize=30&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:ff00cc,100:24243e&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:ff00cc,100:24243e&height=2&section=header"/>
 </p>
 
 ---
