@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=25&center=true&vCenter=true&width=800&lines=Building+AI-powered+Applications;React+Native+%7C+Laravel+%7C+Node.js;Hospital+Systems+Architect;Turning+Ideas+Into+Production+Systems;Future+AI+Tech+Founder"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=25&center=true&vCenter=true&width=800&lines=Turning+Ideas+Into+Production+Code;Full-Stack+Software+Engineer;React+Native+%7C+Next.js+%7C+Django;AI-Powered+Solutions+Architect;Building+The+Future+of+Digital+Health"/>
 </p>
 
 <div>
